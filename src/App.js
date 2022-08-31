@@ -1,6 +1,5 @@
 
 import './App.css';
-import logo from './google.png';
 
 
 
@@ -23,14 +22,9 @@ function App() {
         <input className='input' type="password" placeholder='Enter your password'></input><br></br>
          <input id='box' type='checkbox'></input><p className='pass'>Show password</p>
          <a href='#' ><button className='button'>  Sign Up &#8594;</button></a><br></br>
-         <p id='dash'>
-          <p id='or'>_________                 _______      </p>
-          or
-         </p>
+        
          <a href='#@'>
-          <button className='google'>
-               <img src={logo} id="logo" /><span id='go'>Continue with Google</span>
-          </button>
+          
          </a>
         </div>
         </div>
