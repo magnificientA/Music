@@ -255,3 +255,20 @@ left: -22px;
   top: -70px;
   font-size: small;
 }
+
+
+#signme{
+  background-color: inherit;
+  border: none;
+  color: #ffffff;
+  font-size: 15px;
+  position: relative;
+  top: -20px;
+}
+
+
+#homepage{
+position: relative;
+right:  -600px;
+top: 50px;
+}
